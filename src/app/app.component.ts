@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+// import ABI from '../../build/contracts/EthMov.json';
+// import Web3 from 'web3';
+
 
 @Component({
   selector: 'app-root',
@@ -6,5 +9,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  
   title = 'final-project-app';
 }
+
